@@ -1,5 +1,5 @@
 
-# Step by Step Guide to Create Employee Vaccination Report using Open Source Pentaho Report Designer
+# Step by Step Tutorial to Create Employee Vaccination Report using Open Source Pentaho Report Designer
 
 ### Workflow
 ![Alt text](wf.png)
@@ -33,5 +33,5 @@ F -- export --> html
 </ul>
 
 ### Tutorial
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LzUwuxK0JD8" target="_blank"><img src="http://img.youtube.com/vi/LzUwuxK0JD8/0.jpg" alt="Step by Step Guide to Create Employee Vaccination Report using Open Source Pentaho Report Designer" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wzusNIO8KPU" target="_blank"><img src="http://img.youtube.com/vi/wzusNIO8KPU/0.jpg" alt="Step by Step Tutorial to Create Employee Vaccination Report using Open Source Pentaho Report Designer" width="240" height="180" border="10" /></a>
 
